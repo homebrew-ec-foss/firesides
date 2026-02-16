@@ -1,5 +1,21 @@
 [
     {
+        "id": 93,
+        "title": "Attention Is All You Need",
+        "author": {
+            "login": "Ieatfingies",
+            "html_url": "https://github.com/Ieatfingies"
+        },
+        "created_at": "2026-02-13T07:30:00.000Z",
+        "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/93",
+        "body": "A brief talk on the revolutionary 2017 paper on Attention and Transformer Architecture.",
+        "youtubeId": "JIeFOtUgD4Y",
+        "comments": 0,
+        "reactions": {
+            "+1": 0
+        }
+    },
+    {
         "id": 90,
         "title": "Non Linear Principle Component Analysis using ANNs",
         "author": {
