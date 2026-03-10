@@ -1,4 +1,19 @@
-[
+[       {
+        "id": 94,
+        "title": "TDNNs and HMMs",
+        "author": {
+            "login": "saketharamanj",
+            "html_url": "https://github.com/saketharamanj"
+        },
+        "created_at": "2026-03-10T08:12:00Z",
+        "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/94",
+        "body": "The session aims for people to understand how Time Delayed Neural Networks and Hidden Markov Models work and where they are used.",
+        "youtubeId": "",
+        "comments": 0,
+        "reactions": {
+            "+1": 0
+        }
+    },
     {
         "id": 93,
         "title": "Attention Is All You Need",
