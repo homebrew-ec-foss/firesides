@@ -1,5 +1,20 @@
-[   
-     {
+[   {
+        "id": 96,
+        "title": " Terminal User Interfaces: Full-screen applications that run entirely within your terminal.",
+        "author": {
+            "login": "NorSomething",
+            "html_url": "https://github.com/NorSomething"
+        },
+        "created_at": "2026-04-10T14:08:59Z",
+        "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/96",
+        "body": "This talk explored Terminal User Interfaces (TUIs) going through terminal rendering, ANSI escape sequences, the PTY, raw mode and input handling and how tools like htop, vim etc really work under the hood.",
+        "youtubeId": "PT1hTxpcCLk",
+        "comments": 0,
+        "reactions": {
+            "+1": 0
+        }
+    },
+    {
         "id": 95,
         "title": "Dirty COW: The Nine-Year Linux Kernel Race Condition",
         "author": {
