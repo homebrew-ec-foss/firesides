@@ -1,4 +1,21 @@
-[   {
+[   
+    {
+        "id": 97,
+        "title": "Mixture of Experts(MoE): The Deepseek models that broke the internet",
+        "author": {
+            "login": "LakshitTalreja",
+            "html_url": "https://github.com/LakshitTalreja"
+        },
+        "created_at": "2026-04-17T21:12:00.000Z",
+        "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/97",
+        "body": "Exploring Mixture of experts and the deepseek models while also understanding model collapse and the fixes deepseek used to make a model that broke the internet.",
+        "youtubeId": "bpAGvsyOTSw",
+        "comments": 0,
+        "reactions": {
+            "+1": 0
+        }
+    },
+    {
         "id": 96,
         "title": " Terminal User Interfaces: Full-screen applications that run entirely within your terminal.",
         "author": {
