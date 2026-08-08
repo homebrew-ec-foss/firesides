@@ -143,5 +143,20 @@
         "reactions": {
             "+1": 0
         }
+    },
+    {
+    "id": 99,
+    "title": "Exploratory Data Analysis",
+    "author": {
+        "login": "mittal-ayushi",
+        "html_url": "https://github.com/mittal-ayushi"
+    },
+    "created_at": "2026-08-05T00:00:00.000Z",
+    "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/99",
+    "body": "The fireside covered how to visualize datasets, identify redundant data, and analyze trends to draw meaningful conclusions based on data.",
+    "youtubeId": "K3JEeaIc4S4",
+    "comments": 0,
+    "reactions": {
+        "+1": 0
     }
-]
+    }]
