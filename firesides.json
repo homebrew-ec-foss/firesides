@@ -1,4 +1,37 @@
 [   
+
+    {
+    "id": 100,
+    "title": "Serverless Computing and AWS Lambda",
+    "author": {
+        "login": "Navya2022",
+        "html_url": "https://github.com/Navya2022"
+    },
+    "created_at": "2026-08-10T17:46:12Z",
+    "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/100",
+    "body": "This talk explored Serverless Computing and AWS Lambda, covering its core concepts, architecture, use cases, advantages, and challenges.",
+    "youtubeId": "HgsO2SY8Nzc",
+    "comments": 0,
+    "reactions": {
+        "+1": 0
+    }
+    },
+    {
+    "id": 99,
+    "title": "Exploratory Data Analysis",
+    "author": {
+        "login": "mittal-ayushi",
+        "html_url": "https://github.com/mittal-ayushi"
+    },
+    "created_at": "2026-08-05T00:00:00.000Z",
+    "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/99",
+    "body": "The fireside covered how to visualize datasets, identify redundant data, and analyze trends to draw meaningful conclusions based on data.",
+    "youtubeId": "K3JEeaIc4S4",
+    "comments": 0,
+    "reactions": {
+        "+1": 0
+    }
+    },
     {
         "id": 97,
         "title": "Mixture of Experts(MoE): The Deepseek models that broke the internet",
@@ -143,20 +176,5 @@
         "reactions": {
             "+1": 0
         }
-    },
-    {
-    "id": 99,
-    "title": "Exploratory Data Analysis",
-    "author": {
-        "login": "mittal-ayushi",
-        "html_url": "https://github.com/mittal-ayushi"
-    },
-    "created_at": "2026-08-05T00:00:00.000Z",
-    "html_url": "https://github.com/orgs/homebrew-ec-foss/discussions/99",
-    "body": "The fireside covered how to visualize datasets, identify redundant data, and analyze trends to draw meaningful conclusions based on data.",
-    "youtubeId": "K3JEeaIc4S4",
-    "comments": 0,
-    "reactions": {
-        "+1": 0
     }
-    }]
+    ]
